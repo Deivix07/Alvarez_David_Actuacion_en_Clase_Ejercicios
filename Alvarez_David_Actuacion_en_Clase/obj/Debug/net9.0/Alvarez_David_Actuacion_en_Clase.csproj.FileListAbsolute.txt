@@ -1,0 +1,14 @@
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\bin\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.exe
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\bin\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.deps.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\bin\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.runtimeconfig.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\bin\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\bin\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.AssemblyInfoInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.AssemblyInfo.cs
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.csproj.CoreCompileInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\refint\Alvarez_David_Actuacion_en_Clase.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\Alvarez_David_Actuacion_en_Clase.genruntimeconfig.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Actuacion_en_Clase\obj\Debug\net9.0\ref\Alvarez_David_Actuacion_en_Clase.dll

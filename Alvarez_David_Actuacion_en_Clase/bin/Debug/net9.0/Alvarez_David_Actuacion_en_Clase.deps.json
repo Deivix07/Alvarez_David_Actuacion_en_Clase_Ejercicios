@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Alvarez_David_Actuacion_en_Clase/1.0.0": {
+        "runtime": {
+          "Alvarez_David_Actuacion_en_Clase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alvarez_David_Actuacion_en_Clase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

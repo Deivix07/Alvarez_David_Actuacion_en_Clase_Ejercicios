@@ -1,0 +1,15 @@
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\bin\Debug\net9.0\Alvarez_David_Ejercicios_27_29.exe
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\bin\Debug\net9.0\Alvarez_David_Ejercicios_27_29.deps.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\bin\Debug\net9.0\Alvarez_David_Ejercicios_27_29.runtimeconfig.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\bin\Debug\net9.0\Alvarez_David_Ejercicios_27_29.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\bin\Debug\net9.0\Alvarez_David_Ejercicios_27_29.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.AssemblyInfoInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.AssemblyInfo.cs
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.csproj.CoreCompileInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.sourcelink.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\refint\Alvarez_David_Ejercicios_27_29.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\Alvarez_David_Ejercicios_27_29.genruntimeconfig.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\ACTUACION 01\Alvarez_David_Ejercicios_27_29\obj\Debug\net9.0\ref\Alvarez_David_Ejercicios_27_29.dll
